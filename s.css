@@ -350,7 +350,7 @@ header .row {
   line-height: 1.7;
   font-size: 16px;
 }
-.subscription span {
+.subscription p {
   font-size: 16px;
   font-family: "Open Sans", sans-serif;
   color: black;
