@@ -113,6 +113,7 @@
         width: 73%;
         margin-left: 80px;
     }
+
 }
 
 /*@media only screen and (max-width: 750px) {*/
@@ -125,6 +126,16 @@
 /*        transform: translate(0, -2%);*/
 /*    }*/
 /*}*/
+@media only screen and (max-width: 700px) {
+    .starter{
+        width: 100%;
+        padding: 10px;
+    }
+    .plans{
+        width: 100%;
+        padding: 10px;
+    }
+}
 @media only screen and (max-width: 650px) {
     .home-solution-info {
         width: 100%;
@@ -159,6 +170,23 @@
     }
     .clients{
         width: 100%;
+    }
+    .solution7{
+        height: 750px;
+    }
+    .contact {
+        width: 76%;
+        background-color: white;
+        height: 650px;
+        border-radius: 10px;
+        margin-left: 55px;
+    }
+    .info{
+        width: 93%;
+    }
+    .personal{
+        width: 93%;
+        padding:0;
     }
 }
 @media only screen and (max-width: 500px) {
