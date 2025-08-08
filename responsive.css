@@ -45,8 +45,11 @@
     linear-gradient(90deg, rgb(242, 242, 242) 23%, rgb(242, 242, 242) 24%, rgb(242, 242, 242) 30%, rgb(76, 162, 105) 26%, rgb(53, 151, 86) 63%, rgb(242, 242, 242) 41%)
     }
     .app{
-        width: 50%;
+        width: 77%;
         padding-top: 0;
+    }
+    .subscription{
+        width: 57%;
     }
     .card{
         width: 40%;
